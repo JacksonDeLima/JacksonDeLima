@@ -1,5 +1,3 @@
-## Bem-vindo(a) ao perfil do Jackson De Lima 
-
 <h1 align="center">Bem-vindo(a) ao perfil do Jackson De Lima</h1>
 
 ###
@@ -49,7 +47,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacksonDeLima/JacksonDeLima/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacksonDeLima/JacksonDeLima/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JacksonDeLima/JacksonDeLima/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
