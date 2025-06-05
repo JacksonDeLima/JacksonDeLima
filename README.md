@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Jackson De Lima 😁
+## Bem-vindo(a) ao perfil do Jackson De Lima 
 
  <div>
    <a href="https://github.com/JacksonDeLima
