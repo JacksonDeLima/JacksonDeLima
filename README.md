@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo(a) ao perfil do Jackson Luis</h1>
+<h1 align="center">Bem-vindo(a) ao perfil de Jackson Luis</h1>
 
 ###
 
