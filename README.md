@@ -13,12 +13,15 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas em transição de carreira para desenvolvimento fullstack. Atualmente atuo como residente em TIC na BRISA/UNISINOS, onde aplico meus conhecimentos em projetos reais enquanto continuo me desenvolvendo como profissional de tecnologia.
 
-🏢 Atuação Profissional
+## 🏢 Atuação Profissional
+
 BRISA/UNISINOS - Desenvolvedor Residente em TIC (ago/2025 - Presente)
 
 DIO - Embaixador Universitário Campus Expert (jul/2025 - Presente)
 
-📱 Especialidades
+
+## 📱 Especialidades
+
 Linguagens: Java, Python, JavaScript, SQL
 
 Front-end: HTML5, CSS3
@@ -27,14 +30,20 @@ Ferramentas: Git, GitHub, VS Code, IntelliJ
 
 Metodologias: Scrum, Kanban, DevOps
 
-🚀 O que me motiva
+
+## 🚀 O que me motiva
+
 Atualmente estou focando meus estudos em IA Generativa para acelerar meu aprendizado e me tornar um desenvolvedor mais completo. Busco minha primeira oportunidade profissional em tecnologia para aplicar meus conhecimentos em projetos reais e evoluir como desenvolvedor fullstack.
 
-📌 Projetos em Destaque
-https://github-readme-stats.vercel.app/api/pin/?username=JacksonDeLima&repo=projetos-academicos&theme=dark
+## 📌 Projetos em Destaque
 
-📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=JacksonDeLima&show_icons=true&theme=dark
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JacksonDeLima&repo=projetos-academicos&theme=dark)
 
-🧠 Linguagens Mais Usadas
-https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonDeLima&layout=compact&theme=dark
+## 📊 GitHub Stats
+
+![Jackson GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonDeLima&show_icons=true&theme=dark)
+
+## 🧠 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonDeLima&layout=compact&theme=dark)
+ 
