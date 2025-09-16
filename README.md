@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo(a) ao perfil de Jackson Luis</h1>
+<h1 align="center">Bem-vindo(a) ao perfil de Jackson Luis👋</h1>
 
 ###
 
@@ -11,19 +11,30 @@
 
 </div>
 
-###
+Sou estudante de Análise e Desenvolvimento de Sistemas em transição de carreira para desenvolvimento fullstack. Atualmente atuo como residente em TIC na BRISA/UNISINOS, onde aplico meus conhecimentos em projetos reais enquanto continuo me desenvolvendo como profissional de tecnologia.
 
-<div align="center">
+🏢 Atuação Profissional
+BRISA/UNISINOS - Desenvolvedor Residente em TIC (ago/2025 - Presente)
 
-  <img src="https://streak-stats.demolab.com?user=JacksonDeLima&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JacksonDeLima&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+DIO - Embaixador Universitário Campus Expert (jul/2025 - Presente)
 
-###
+📱 Especialidades
+Linguagens: Java, Python, JavaScript, SQL
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacksonDeLima/JacksonDeLima/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacksonDeLima/JacksonDeLima/output/pacman-contribution-graph.svg">
-</picture>
+Front-end: HTML5, CSS3
 
-###
+Ferramentas: Git, GitHub, VS Code, IntelliJ
+
+Metodologias: Scrum, Kanban, DevOps
+
+🚀 O que me motiva
+Atualmente estou focando meus estudos em IA Generativa para acelerar meu aprendizado e me tornar um desenvolvedor mais completo. Busco minha primeira oportunidade profissional em tecnologia para aplicar meus conhecimentos em projetos reais e evoluir como desenvolvedor fullstack.
+
+📌 Projetos em Destaque
+https://github-readme-stats.vercel.app/api/pin/?username=JacksonDeLima&repo=projetos-academicos&theme=dark
+
+📊 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=JacksonDeLima&show_icons=true&theme=dark
+
+🧠 Linguagens Mais Usadas
+https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonDeLima&layout=compact&theme=dark
