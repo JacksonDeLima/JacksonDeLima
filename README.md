@@ -37,7 +37,7 @@ Atualmente estou focando meus estudos em IA Generativa para acelerar meu aprendi
 
 ## 📌 Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JacksonDeLima&repo=projetos-academicos&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JacksonDeLima&repo=Imersao-dados_python&theme=dark)
 
 ## 📊 GitHub Stats
 
