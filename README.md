@@ -17,7 +17,7 @@
 
 ## 🏢 Atuação Profissional
 
-BRISA/UNISINOS - Desenvolvedor Residente em TIC (ago/2025 - Presente)
+BRISA/UNISINOS - Desenvolvedor Residente em TIC (ago/2025 - fev/2026)
 
 [DIO](https://www.dio.me/sign-up?ref=NGPK1FTGQL) - Embaixador Universitário Campus Expert (jul/2025 - Presente)
 
